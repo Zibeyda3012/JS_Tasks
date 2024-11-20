@@ -41,3 +41,4 @@ const person1 = new Person(props1);
 person1.getInfo();
 person1.changeEmail("musayeva@gmail.com");
 person1.getInfo();
+person1.changeEmail("zibeyda@gmail.com");
